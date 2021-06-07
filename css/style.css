@@ -156,6 +156,7 @@ select {
 .cancelButton {
     text-decoration:none;
     text-align: center;
+}
 
 
 
@@ -202,11 +203,11 @@ select {
     }
 }
 
-output {
+error-output {
     margin-left:10px;
     font-size:12px;
     font-style:italic;
-    color :red
+    color :red;
 
 }
 
